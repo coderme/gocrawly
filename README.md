@@ -1,7 +1,5 @@
 # GoCrawly
-
-## Whats GoCrawly?
-* gocrawly is a demo crawler written in golang which fetches webpage title tag.
+* a demo crawler written in golang which fetches webpage title tag.
 
 ## Features
 * Option to revisit webpage every specific amount of time.
